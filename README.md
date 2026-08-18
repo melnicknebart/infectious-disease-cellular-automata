@@ -89,7 +89,7 @@ At each time step:
 
 ## Data
 
-The original classroom project used a course-supplied 150 × 150 New York City coordinate map.
+The original project used a course-supplied 150 × 150 New York City coordinate map.
 
 That dataset is not redistributed here. `generate_demo_map.py` instead creates a synthetic 150 × 150 grid so the public portfolio project can run independently.
 
@@ -125,7 +125,3 @@ python simulator.py --map data/nyc_map.csv
 - heterogeneous population density
 - distance-weighted transmission
 - unit tests
-
-## Academic integrity
-
-Only make the repository public if that is allowed by your course's academic-integrity and code-sharing policies. Do not redistribute course-provided assignment text or datasets without permission.
