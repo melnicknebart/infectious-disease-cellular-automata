@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.vscode/
+.idea/
+
+# Course-supplied data: keep local unless redistribution is allowed.
+data/nyc_map.csv
+
+# Generated files
+data/demo_map.csv
+outputs/*.png
+outputs/*.csv
